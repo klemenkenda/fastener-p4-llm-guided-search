@@ -1,5 +1,7 @@
 # P4 -- Mechanisms and Limits of LLM-Guided Evolutionary Search
 
+**Authors:** Klemen Kenda and Sidorela Uku, Jožef Stefan Institute (klemen.kenda@ijs.si, sidorela.uku@ijs.si)
+
 **Placeholder.** No manuscript yet. This repository will hold the paper's plan, evidence snapshots, references and, later, the manuscript.
 
 Mechanisms and limits of LLM-guided evolutionary feature selection.
